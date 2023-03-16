@@ -5,3 +5,5 @@ Grupo: Bernardo Santos, Caio Silveira, Gabriel Savio, Vitor Augusto e Vitor Card
 codigo onde devem ser digitados 2 valores inteiros para realizar soma entre eles e apresentar o resultado
 
 para que não haja erro ao serem digitados valores inalidos como numeros decimais ou caracteres foi utilizado o bloco catch para encontrar entradas invalidas
+
+![WhatsApp Image 2023-03-16 at 18 24 56](https://user-images.githubusercontent.com/126777966/225756285-c34a602d-4dbf-4d44-8c1c-f82d4ddd3df4.jpeg)
